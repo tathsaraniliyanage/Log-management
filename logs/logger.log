@@ -1,0 +1,42 @@
+2025-03-02T21:00:09.736+05:30  INFO 17717 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : Starting LogManagementApplicationTests using Java 21.0.6 with PID 17717 (started by sasindu-malshan in /home/sasindu-malshan/Documents/3rd sem/micro service/feb 27 log-management/log-management)
+2025-03-02T21:00:09.937+05:30  INFO 17717 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-03-02T21:00:27.938+05:30  INFO 17717 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : Started LogManagementApplicationTests in 23.993 seconds (process running for 31.207)
+2025-03-02T22:04:44.035+05:30  INFO 5527 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : Starting LogManagementApplicationTests using Java 21.0.6 with PID 5527 (started by sasindu-malshan in /home/sasindu-malshan/Documents/3rd sem/micro service/feb 27 log-management/log-management)
+2025-03-02T22:04:44.057+05:30  INFO 5527 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-03-02T22:05:00.687+05:30  INFO 5527 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : Started LogManagementApplicationTests in 20.483 seconds (process running for 27.318)
+2025-03-02T22:17:22.667+05:30  INFO 6762 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : Starting LogManagementApplicationTests using Java 21.0.6 with PID 6762 (started by sasindu-malshan in /home/sasindu-malshan/Documents/3rd sem/micro service/feb 27 log-management/log-management)
+2025-03-02T22:17:22.718+05:30  INFO 6762 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2025-03-02T22:17:36.725+05:30  INFO 6762 --- [log-management] [main] l.i.g.l.LogManagementApplicationTests    : Started LogManagementApplicationTests in 20.073 seconds (process running for 25.904)
+2025-03-02T22:19:21.926+05:30  INFO 7358 --- [log-management] [main] l.i.g.l.LogManagementApplication         : Starting LogManagementApplication using Java 21.0.6 with PID 7358 (/home/sasindu-malshan/Documents/3rd sem/micro service/feb 27 log-management/log-management/target/classes started by sasindu-malshan in /home/sasindu-malshan/Documents/3rd sem/micro service/feb 27 log-management/log-management)
+2025-03-02T22:19:21.953+05:30  INFO 7358 --- [log-management] [main] l.i.g.l.LogManagementApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-03-02T22:19:26.897+05:30  INFO 7358 --- [log-management] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8085 (http)
+2025-03-02T22:19:27.054+05:30  INFO 7358 --- [log-management] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-02T22:19:27.059+05:30  INFO 7358 --- [log-management] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-02T22:19:27.346+05:30  INFO 7358 --- [log-management] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-02T22:19:27.349+05:30  INFO 7358 --- [log-management] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4886 ms
+2025-03-02T22:19:29.273+05:30  INFO 7358 --- [log-management] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8085 (http) with context path '/'
+2025-03-02T22:19:29.303+05:30  INFO 7358 --- [log-management] [main] l.i.g.l.LogManagementApplication         : Started LogManagementApplication in 9.654 seconds (process running for 15.361)
+2025-03-02T22:20:20.866+05:30  INFO 7358 --- [log-management] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-02T22:20:20.907+05:30  INFO 7358 --- [log-management] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-02T22:20:34.188+05:30  INFO 7496 --- [log-management] [main] l.i.g.l.LogManagementApplication         : Starting LogManagementApplication using Java 21.0.6 with PID 7496 (/home/sasindu-malshan/Documents/3rd sem/micro service/feb 27 log-management/log-management/target/classes started by sasindu-malshan in /home/sasindu-malshan/Documents/3rd sem/micro service/feb 27 log-management/log-management)
+2025-03-02T22:20:34.210+05:30  INFO 7496 --- [log-management] [main] l.i.g.l.LogManagementApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-03-02T22:20:38.912+05:30  INFO 7496 --- [log-management] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8085 (http)
+2025-03-02T22:20:38.974+05:30  INFO 7496 --- [log-management] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-02T22:20:38.977+05:30  INFO 7496 --- [log-management] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-02T22:20:39.125+05:30  INFO 7496 --- [log-management] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-02T22:20:39.129+05:30  INFO 7496 --- [log-management] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4389 ms
+2025-03-02T22:20:40.879+05:30  INFO 7496 --- [log-management] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8085 (http) with context path '/'
+2025-03-02T22:20:40.910+05:30  INFO 7496 --- [log-management] [main] l.i.g.l.LogManagementApplication         : Started LogManagementApplication in 9.014 seconds (process running for 13.567)
+2025-03-02T22:25:28.652+05:30  INFO 7496 --- [log-management] [http-nio-8085-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02T22:25:28.728+05:30  INFO 7496 --- [log-management] [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-02T22:25:28.803+05:30  INFO 7496 --- [log-management] [http-nio-8085-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 67 ms
+2025-03-02T22:25:29.530+05:30  INFO 7496 --- [log-management] [http-nio-8085-exec-1] l.i.g.l.controller.LogController         : this is INFO log message
+2025-03-02T22:25:29.539+05:30  WARN 7496 --- [log-management] [http-nio-8085-exec-1] l.i.g.l.controller.LogController         : this is WARN log message
+2025-03-02T22:25:29.540+05:30 ERROR 7496 --- [log-management] [http-nio-8085-exec-1] l.i.g.l.controller.LogController         : this is ERROR log message
+2025-03-02T22:25:29.551+05:30 ERROR 7496 --- [log-management] [http-nio-8085-exec-1] l.i.g.l.controller.LogController         : this is error : Hello i'm exception
+2025-03-02T22:26:25.057+05:30  INFO 7496 --- [log-management] [http-nio-8085-exec-3] l.i.g.l.controller.LogController         : this is INFO log message
+2025-03-02T22:26:25.058+05:30  WARN 7496 --- [log-management] [http-nio-8085-exec-3] l.i.g.l.controller.LogController         : this is WARN log message
+2025-03-02T22:26:25.061+05:30 ERROR 7496 --- [log-management] [http-nio-8085-exec-3] l.i.g.l.controller.LogController         : this is ERROR log message
+2025-03-02T22:26:25.065+05:30 ERROR 7496 --- [log-management] [http-nio-8085-exec-3] l.i.g.l.controller.LogController         : this is error : Hello i'm exception
+2025-03-02T22:31:20.810+05:30  INFO 7496 --- [log-management] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-02T22:31:22.784+05:30  INFO 7496 --- [log-management] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
