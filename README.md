@@ -3,6 +3,7 @@
 ## Introduction
 Docker is a tool used for managing containers, allowing applications to run in isolated environments. This guide covers the fundamental Docker commands to build, run, and manage containers for Java and Spring Boot applications.
 
+
 ## Prerequisites
 - Install Docker on your system.
 - Verify the installation using:
