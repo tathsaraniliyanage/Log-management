@@ -1,9 +1,9 @@
-# Docker Setup and Management Guide
+# Docker Setup and Management Guide 🚀
 
-## Introduction
+## Introduction  🌟
 Docker is a tool used for managing containers, allowing applications to run in isolated environments. This guide covers the fundamental Docker commands to build, run, and manage containers for Java and Spring Boot applications.
 
-## Prerequisites
+## Prerequisites  📚
 - Install Docker on your system.
 - Verify the installation using:
   
@@ -23,9 +23,7 @@ mvn package
 The JAR file will be created inside the target folder.
 
 2. Create a Dockerfile
-Create a Dockerfile in the project root and specify the instructions for building the image. Example:
-
-dockerfile
+Create a Dockerfile in the project root and specify the instructions for building the image. 
 ```
 FROM openjdk:17
 COPY target/your-app.jar app.jar
@@ -102,8 +100,9 @@ docker pull openjdk:17
 This guide covers the essential Docker commands to build and manage your Java/Spring Boot applications efficiently.
 
 
+---
 
-## now we consider how to push docker image in docker hub
+## now we consider how to push docker image in docker hub  📷
 
 1. log into dockerHub
 ```
@@ -176,20 +175,27 @@ docker logs -f containerid
 ---
 
 
-### all commands
+### all commands 📚
 
-mvn clean
-mvn package
-docker build -t sudu .
-docker images
-docker login
-docker images
-docker tag sudu prabodha1234/sudu
-docker images
-docker push prabodha1234/sudu
-docker images
-docker rmi  af98f056e89d    or    docker rmi prabodha1234/myhtml-frontend , docker rmi myhtml-frontend
-docker images
-docker pull prabodha1234/sudu:latest
-docker images
+- mvn clean
+- mvn package
+- docker build -t sudu .
+- docker images
+- docker login
+- docker images
+- docker tag sudu prabodha1234/sudu
+- docker images
+- docker push prabodha1234/sudu
+- docker images
+- docker rmi  af98f056e89d    or    docker rmi prabodha1234/myhtml-frontend , docker rmi myhtml-frontend
+- docker images
+- docker pull prabodha1234/sudu:latest
+- docker images
+
+
+
+
+## 📚 License
+
+This project is licensed under the [MIT License](LICENSE).
 
