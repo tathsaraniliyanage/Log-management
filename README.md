@@ -151,13 +151,15 @@ you can use latest, production ... like that.
 docker run -d -p 8090:8085 prabodha1234/sudu
 ```
 
--d demme background eken run wenn
+-d is use to run in the background.
+```
 docker run -d -p <other port> <docker image run port> <dockerhub image name>
-
+```
 
 7. check it using postman or web
+```
 web   => localhost:8090/log
-
+```
 
 8. check containers
 
